@@ -1,0 +1,59 @@
+body {
+    width:100%;
+    background-color: lightgoldenrodyellow;
+    overflow:hidden;
+    color: darkslategray;
+}
+#deluxe_burger {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    width: 220px;
+    height: auto;
+    align-items:center;
+}
+.label {
+    font-weight: bold;
+}
+h1 {
+    font-family: Ubuntu, sans-serif;
+    font-size: 32px;
+    color: red;
+    font-weight: bold;
+}
+h2 {
+    font-family: Ubuntu, sans-serif;
+    font-size: 28px;
+    color: darkslategray;
+    font-weight: bold;
+    margin: 20px 0px 20px 0px;
+}
+button:hover {
+    background-color: lightseagreen;
+}
+button {
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: darkslategray;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 1px #999;
+    margin-left: 10px;
+}
+td {
+    height: 40px;
+    vertical-align: center;
+}
+input[type=text], select {
+    width: 28%;
+    padding: 35px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.burger-form {
+    margin-top: 30px;
+    text-align: center;
+}
