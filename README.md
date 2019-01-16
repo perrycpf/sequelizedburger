@@ -9,6 +9,10 @@ The goal was to create a Sequelize Burger App with Heroku's JawsDB MySQL, Node, 
 3. Create database MySQL database with provided schema and seeds
 4. Run ```node server.js``` in the command line while in the appropriate directory
 
+## Demo
+	
+*Eat-Da-Burger* is deployed to Heroku. Please check it out [here](https://hidden-brook-77163.herokuapp.com/)
+
 
 ## Screen Shots
 Main Page <br>
